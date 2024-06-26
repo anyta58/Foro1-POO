@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\Desktop\\POO\\Unidad 1\\Foro Unidad 1\\Encapsulacion\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0B168001-523C-4BCA-AE0B-CC94F0DBD0D4}|Encapsulacion\\Encapsulacion.csproj|c:\\users\\pc\\desktop\\poo\\unidad 1\\foro unidad 1\\encapsulacion\\encapsulacion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B168001-523C-4BCA-AE0B-CC94F0DBD0D4}|Encapsulacion\\Encapsulacion.csproj|solutionrelative:encapsulacion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\POO\\Unidad 1\\Foro Unidad 1\\Encapsulacion\\Encapsulacion\\Program.cs",
+              "RelativeDocumentMoniker": "Encapsulacion\\Program.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\POO\\Unidad 1\\Foro Unidad 1\\Encapsulacion\\Encapsulacion\\Program.cs",
+              "RelativeToolTip": "Encapsulacion\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAwAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T00:17:21.996Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\Desktop\\POO\\Unidad 1\\Foro Unidad 1\\ReproductorMultimedia\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9BD8DCA6-7C93-4736-B566-1DF15C6C428D}|ReproductorMultimedia\\ReproductorMultimedia.csproj|c:\\users\\pc\\desktop\\poo\\unidad 1\\foro unidad 1\\reproductormultimedia\\reproductormultimedia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BD8DCA6-7C93-4736-B566-1DF15C6C428D}|ReproductorMultimedia\\ReproductorMultimedia.csproj|solutionrelative:reproductormultimedia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BD8DCA6-7C93-4736-B566-1DF15C6C428D}|ReproductorMultimedia\\ReproductorMultimedia.csproj|c:\\users\\pc\\desktop\\poo\\unidad 1\\foro unidad 1\\reproductormultimedia\\reproductormultimedia\\cancion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BD8DCA6-7C93-4736-B566-1DF15C6C428D}|ReproductorMultimedia\\ReproductorMultimedia.csproj|solutionrelative:reproductormultimedia\\cancion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BD8DCA6-7C93-4736-B566-1DF15C6C428D}|ReproductorMultimedia\\ReproductorMultimedia.csproj|c:\\users\\pc\\desktop\\poo\\unidad 1\\foro unidad 1\\reproductormultimedia\\reproductormultimedia\\ireproducible.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BD8DCA6-7C93-4736-B566-1DF15C6C428D}|ReproductorMultimedia\\ReproductorMultimedia.csproj|solutionrelative:reproductormultimedia\\ireproducible.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BD8DCA6-7C93-4736-B566-1DF15C6C428D}|ReproductorMultimedia\\ReproductorMultimedia.csproj|c:\\users\\pc\\desktop\\poo\\unidad 1\\foro unidad 1\\reproductormultimedia\\reproductormultimedia\\multimedia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BD8DCA6-7C93-4736-B566-1DF15C6C428D}|ReproductorMultimedia\\ReproductorMultimedia.csproj|solutionrelative:reproductormultimedia\\multimedia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Multimedia.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\POO\\Unidad 1\\Foro Unidad 1\\ReproductorMultimedia\\ReproductorMultimedia\\Multimedia.cs",
+              "RelativeDocumentMoniker": "ReproductorMultimedia\\Multimedia.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\POO\\Unidad 1\\Foro Unidad 1\\ReproductorMultimedia\\ReproductorMultimedia\\Multimedia.cs",
+              "RelativeToolTip": "ReproductorMultimedia\\Multimedia.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T02:36:12.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IReproducible.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\POO\\Unidad 1\\Foro Unidad 1\\ReproductorMultimedia\\ReproductorMultimedia\\IReproducible.cs",
+              "RelativeDocumentMoniker": "ReproductorMultimedia\\IReproducible.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\POO\\Unidad 1\\Foro Unidad 1\\ReproductorMultimedia\\ReproductorMultimedia\\IReproducible.cs",
+              "RelativeToolTip": "ReproductorMultimedia\\IReproducible.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T02:38:41.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cancion.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\POO\\Unidad 1\\Foro Unidad 1\\ReproductorMultimedia\\ReproductorMultimedia\\Cancion.cs",
+              "RelativeDocumentMoniker": "ReproductorMultimedia\\Cancion.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\POO\\Unidad 1\\Foro Unidad 1\\ReproductorMultimedia\\ReproductorMultimedia\\Cancion.cs",
+              "RelativeToolTip": "ReproductorMultimedia\\Cancion.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T02:41:34.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\POO\\Unidad 1\\Foro Unidad 1\\ReproductorMultimedia\\ReproductorMultimedia\\Program.cs",
+              "RelativeDocumentMoniker": "ReproductorMultimedia\\Program.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\POO\\Unidad 1\\Foro Unidad 1\\ReproductorMultimedia\\ReproductorMultimedia\\Program.cs",
+              "RelativeToolTip": "ReproductorMultimedia\\Program.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAABsAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T02:34:10.018Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
